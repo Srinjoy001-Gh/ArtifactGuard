@@ -73,5 +73,5 @@ Run the tool by pointing the `--input` argument to a target browser `History` da
 ## 👨‍💻 Author
 
 **Srinjoy Ghatak**  
-*B.Sc.-M.Sc. Digital and Cyber Forensics | NFSU*  
+*B.Sc.-M.Sc. Forensic Science (Cyber Forensics) | NFSU*  
 [GitHub Profile](https://github.com/Srinjoy001-Gh)
